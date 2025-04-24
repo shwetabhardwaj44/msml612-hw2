@@ -59,7 +59,38 @@ You may need to resize the input images.
 5. Quality of write-up (clarity, details, etc.) : 15%
 
 
-## :sparkles: Homework 3: CNNs for Image Classification
+## :sparkles: Homework 3: Paper Review
+
+
+1. Find a paper on one of the following topics:
+
+Image classification
+Object detection
+Semantic segmentation
+Image captioning
+Image generation
+Transfer learning
+Autoregressive model
+Variational autoencoder (VAE)
+Generative adversarial networks (GAN)
+Word embedding
+Document classification
+Sequence to sequence model
+Attention model
+Transformer
+Diffusion model
+Other topics of interest on deep learning
+
+2. Prepare a write-up and an 8-minute presentation to introduce your paper
+
+Novelty and contribution
+Network structure and loss function (or training objective)
+Anything else you find interesting
+Your critique on the paper
+
+3. Upload the write-up here.
+
+4. Upload your presentation material (slides) to the next assignment (Homework 3 Presentation). As the in-class presentation is recorded, you do not need to make a video or have voice narrations.
 
 
 
