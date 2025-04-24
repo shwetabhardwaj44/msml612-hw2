@@ -1,4 +1,27 @@
-# MSML 612- HW2
+# MSML 612- HWs
+
+## :sparkles: Homework 2: CNNs for Image Classification
+HW1 requires you to set up a deep learning tool framework, e.g., Tensorflow, Pytorch, Keras, etc. You need to choose one framework for the rest of this class.
+
+## :scroll:  ToDos:
+1. Try to read some articles and get familiar with some of them.
+
+2. Deploy one framework of your choice and run the demo code. You may meet lots of issues before success. Record a short video to show that your demo code runs successfully.
+You can find an introductory demo code online and implement it in your framework. E.g., a 2-layer perceptron for MNIST classification
+
+4. In your write-up, describe the advantages and disadvantages of your chosen framework, the preliminary results you get from the demo code, and issues that you encounter in the process.
+
+5. Upload your write-up and video to Canvas.
+
+
+## :briefcase: Rubrics of Weightage:
+
+1. Write-up quality (clarity, details, etc.) : 30%
+
+2. A working DL framework code : 30%
+
+3. Run a basic demo code using your framework : 40%
+
 
 ## :sparkles: Homework 2: CNNs for Image Classification
 
@@ -34,6 +57,9 @@ You may need to resize the input images.
 4. Quantify intra- and inter-class variance : 25% 
 
 5. Quality of write-up (clarity, details, etc.) : 15%
+
+
+## :sparkles: Homework 3: CNNs for Image Classification
 
 
 
