@@ -8,7 +8,7 @@ We usually use a classic CNN as a feature extractor, since the classic CNN with 
 
 ## :scroll:  In this homework, you need to:
 
-1. Choose a dataset (FashionMNISTLinks to an external site. or CIFAR-10Links to an external site.) and choose a classic CNN (VGG, Alex, ResNet…).
+1. Choose a dataset ( [FashionMNIST](https://www.kaggle.com/zalando-research/fashionmnist)  or [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) ) and choose a classic CNN (VGG, Alex, ResNet…).
 
 2. Choose a feature and extract this feature from each image in the dataset. You need to decide which feature (one or multiple channel in a conv layer, or the neurons in a FC layer, etc.)
 
