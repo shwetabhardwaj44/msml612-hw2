@@ -8,16 +8,15 @@ We usually use a classic CNN as a feature extractor, since the classic CNN with 
 
 ## :scroll:  In this homework, you need to:
 
-1.Choose a dataset (FashionMNISTLinks to an external site. or CIFAR-10Links to an external site.) and choose a classic CNN (VGG, Alex, ResNet…).
+1. Choose a dataset (FashionMNISTLinks to an external site. or CIFAR-10Links to an external site.) and choose a classic CNN (VGG, Alex, ResNet…).
 
-2.Choose a feature and extract this feature from each image in the dataset.
+2. Choose a feature and extract this feature from each image in the dataset. You need to decide which feature (one or multiple channel in a conv layer, or the neurons in a FC layer, etc.)
 
-You need to decide which feature (one or multiple channel in a conv layer, or the neurons in a FC layer, etc.)
-3.Visualize the extracted features from all images using TSNE.
+3. Visualize the extracted features from all images using TSNE.
 
-4.Quantify the intra-class and inter-class variances of your chosen feature.
+4. Quantify the intra-class and inter-class variances of your chosen feature.
 
-5.Report the above in your write-up. Describe what issues you faced and how you resolved them too.
+5. Report the above in your write-up. Describe what issues you faced and how you resolved them too.
 
 **Note:
 
