@@ -1,6 +1,6 @@
-# MSML 612- HWs
+# MSML 612 - HWs
 
-## :sparkles: Homework 2: CNNs for Image Classification
+## :sparkles: Homework 1: Dive into Deep Learning Framework
 HW1 requires you to set up a deep learning tool framework, e.g., Tensorflow, Pytorch, Keras, etc. You need to choose one framework for the rest of this class.
 
 ## :scroll:  ToDos:
