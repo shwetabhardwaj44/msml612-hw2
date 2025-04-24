@@ -1,15 +1,15 @@
 # MSML 612 - HWs
 
 ## :sparkles: Homework 1: Dive into Deep Learning Framework
-HW1 requires you to set up a deep learning tool framework, e.g., Tensorflow, Pytorch, Keras, etc. You need to choose one framework for the rest of this class.
+Goal of this homework is to get familiarized with a deep learning tool/framework, e.g., Tensorflow, Pytorch, Keras, etc. You need to choose one framework for the rest of this class.
 
 ## :scroll:  ToDos:
-1. Try to read some articles and get familiar with some of them.
+1. Try to read some articles and get familiar with one of the frameworks listed.
 
-2. Deploy one framework of your choice and run the demo code. You may meet lots of issues before success. Record a short video to show that your demo code runs successfully.
-You can find an introductory demo code online and implement it in your framework. E.g., a 2-layer perceptron for MNIST classification
+2. Deploy one framework of your choice and run a demo code. You may encounter a lot of issues before succeeding. Record a short video to show that your demo code runs successfully.
+You can find an introductory demo code online and implement it in your framework. E.g., a 2-layer perceptron for MNIST classification.
 
-4. In your write-up, describe the advantages and disadvantages of your chosen framework, the preliminary results you get from the demo code, and issues that you encounter in the process.
+4. In your write-up, describe the 5-6 advantages and 5-6 disadvantages of your chosen framework, the preliminary results you get from the demo code, and issues that you encounter in the process.
 
 5. Upload your write-up and video to Canvas.
 
